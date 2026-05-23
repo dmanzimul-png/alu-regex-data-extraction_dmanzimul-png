@@ -1,0 +1,24 @@
+A verification code was sent to a user elvismanzire@alueducation.com by customer support
+
+Payment processed using Visa card 4532-1234-5678-9999.
+Another customer attempted card 3411-4522-3343 but failed validation.
+
+Invalid emails detected:
+manzi@@gmail..com
+harlod.comgmail
+admin#gmail.com
+
+Backup contact:
+manzi_elvis@alumni.alueducation.com
+
+Useful websites:
+https://www.google.com
+http://example.org/login
+
+Emergency contact numbers:
++250788123456
++250798686752
+
+Potential malicious input detected:
+<script>alert('hacked')</script>
+

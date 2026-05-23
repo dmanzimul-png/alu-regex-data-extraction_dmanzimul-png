@@ -1,0 +1,17 @@
+{
+    "emails": [
+        "elvismanzire@alueducation.com",
+        "manzi_elvis@alumni.alueducation.com"
+    ],
+    "phone_numbers": [
+        "+250788123456",
+        "+250798686752"
+    ],
+    "urls": [
+        "https://www.google.com",
+        "http://example.org/login"
+    ],
+    "credit_cards": [
+        "****-****-****-9999"
+    ]
+}
